@@ -1,0 +1,43 @@
+MASTER FRIO — SITE INSTITUCIONAL
+=================================
+
+ESTRUTURA (mantenha exatamente essa organização de pastas):
+
+  master-frio-site/
+  ├── index.html
+  ├── calculadora-btu.html
+  ├── privacidade.html
+  ├── assets/   (styles.css + fotos Trane e Daikin)
+  └── servicos/ (5 páginas de serviço)
+
+IMPORTANTE: publique a PASTA INTEIRA (não só o index.html).
+
+--------------------------------------------------
+PUBLICAR (opção mais rápida e gratuita)
+--------------------------------------------------
+1. Acesse https://app.netlify.com/drop
+2. Arraste a pasta "master-frio-site" inteira
+3. Em segundos o site está no ar. Depois dá para ligar um domínio próprio
+   (registro.br) nas configurações do Netlify.
+
+--------------------------------------------------
+FORMULÁRIO DE ORÇAMENTO
+--------------------------------------------------
+Não precisa de nenhuma configuração. Ao clicar em "Continuar no WhatsApp",
+o site monta uma mensagem completa com os dados preenchidos e abre o
+WhatsApp da Master Frio, (31) 97557-7302, já com o texto pronto. O cliente
+só precisa enviar.
+
+--------------------------------------------------
+CONFERIR APÓS PUBLICAR
+--------------------------------------------------
+- Faça um teste no formulário e veja se o WhatsApp abre com a mensagem.
+- Clique nas fotos e nos botões da Trane e da Daikin para confirmar que
+  abrem as páginas dos fabricantes (os links podem mudar com o tempo).
+
+--------------------------------------------------
+OUTROS
+--------------------------------------------------
+- WhatsApp flutuante: (31) 97557-7302
+- E-mail de contato exibido no site: contato.masterfrio@gmail.com
+- Google Analytics (opcional): descomente as tags no <head>
